@@ -1,0 +1,73 @@
+,price,year,car_type,trim,mileage,location,DownPay,Emi_Span,APR,EPA_Range,Top_Speed,60mph_time,colour,wheels,interior
+0,30900,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,43839,"Gilroy, CA",4500,72,769,240,140,5.3,Midnight Silver Metallic ,18 inch wheels,All Black Partial Premium Interior
+1,31400,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,49258,"Stockton, CA",4500,72,769,240,140,5.3,Deep Blue Metallic ,18 inch wheels,All Black Partial Premium Interior
+2,32400,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,29852,"Fresno, CA",4500,72,769,240,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+3,32600,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,42351,"Fresno, CA",4500,72,769,250,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+4,32900,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,37149,"Fresno, CA",4500,72,769,240,140,5.3,Pearl White ,19 inch wheels,All Black Partial Premium Interior
+5,33100,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,36223,"Stockton, CA",4500,72,769,240,140,5.3,Deep Blue Metallic ,18 inch wheels,All Black Partial Premium Interior
+6,33400,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,17692,"Lathrop, CA",4500,72,769,240,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+7,33600,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,38368,"Lathrop, CA",4500,72,769,240,140,5.3,Solid Black ,18 inch wheels,All Black Partial Premium Interior
+8,33700,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,19387,"Gilroy, CA",4500,72,769,240,140,5.3,Solid Black ,19 inch wheels,All Black Partial Premium Interior
+9,33800,2018,Model 3,Model 3 Long Range Rear-Wheel Drive,47449,"Stockton, CA",4500,72,769,325,140,5,Deep Blue Metallic ,18 inch wheels,All Black Premium Interior
+10,33900,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,19165,"Bakersfield, CA",4500,72,769,240,140,5.3,Red Multi-Coat ,18 inch wheels,All Black Partial Premium Interior
+11,34000,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,32812,"Lathrop, CA",4500,72,769,240,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+12,34300,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,42468,"Bakersfield, CA",4500,72,769,250,140,5.3,Pearl White ,19 inch wheels,All Black Partial Premium Interior
+13,34400,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,24819,"Lathrop, CA",4500,72,769,250,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+14,34700,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,18599,"Fresno, CA",4500,72,769,240,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+15,34700,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,24632,"Gilroy, CA",4500,72,769,240,140,5.3,Solid Black ,18 inch wheels,All Black Partial Premium Interior
+16,34700,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,30016,"Gilroy, CA",4500,72,769,250,140,5.3,Solid Black ,19 inch wheels,Black and White Partial Premium Interior
+17,34800,2018,Model 3,Model 3 Long Range Rear-Wheel Drive,61436,"Lathrop, CA",4500,72,769,325,140,5,Midnight Silver Metallic ,18 inch wheels,All Black Premium Interior
+18,34900,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,12938,"Gilroy, CA",4500,72,769,250,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+19,35000,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,30229,"Lathrop, CA",4500,72,769,250,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+20,35100,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,12861,"Fresno, CA",4500,72,769,240,140,5.3,Pearl White ,19 inch wheels,Black and White Partial Premium Interior
+21,35100,2019,Model 3,Model 3 Long Range All-Wheel Drive,33786,"Fresno, CA",4500,72,769,310,145,3.9,Midnight Silver Metallic ,18 inch wheels,All Black Premium Interior
+22,35400,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,23120,"Lathrop, CA",4500,72,769,250,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+23,35400,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,22775,"Gilroy, CA",4500,72,769,240,140,5.3,Pearl White ,19 inch wheels,Black and White Partial Premium Interior
+24,36400,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,12831,"Gilroy, CA",4500,72,769,250,140,5.3,Red Multi-Coat ,18 inch wheels,All Black Partial Premium Interior
+25,36700,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,20158,"Lathrop, CA",4500,72,769,250,140,5.3,Pearl White ,18 inch wheels,All Black Partial Premium Interior
+26,36700,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,21045,"Lathrop, CA",4500,72,769,250,140,5.3,Red Multi-Coat ,18 inch wheels,All Black Partial Premium Interior
+27,36800,2019,Model 3,Model 3 Long Range Rear-Wheel Drive,30020,"Colma, CA",4500,72,769,325,140,5,Pearl White ,18 inch wheels,All Black Premium Interior
+28,36800,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,27008,"Gilroy, CA",4500,72,769,250,140,5.3,Pearl White ,19 inch wheels,All Black Partial Premium Interior
+29,36900,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,18822,"Gilroy, CA",4500,72,769,250,140,5.3,Midnight Silver Metallic ,18 inch wheels,All Black Partial Premium Interior
+30,37200,2019,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,15277,"Fresno, CA",4500,72,769,240,140,5.3,Pearl White ,19 inch wheels,All Black Partial Premium Interior
+31,38200,2019,Model 3,Model 3 Long Range All-Wheel Drive,31500,"Stockton, CA",4500,72,769,310,145,3.9,Pearl White ,18 inch wheels,Black and White Premium Interior
+32,38500,2020,Model 3,Model 3 Long Range All-Wheel Drive,22855,"Gilroy, CA",4500,72,769,322,145,3.9,Red Multi-Coat ,18 inch wheels,All Black Premium Interior
+33,38700,2020,Model 3,Model 3 Long Range All-Wheel Drive,28510,"Gilroy, CA",4500,72,769,322,145,3.9,Pearl White ,18 inch wheels,All Black Premium Interior
+34,38800,2020,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,12954,"Lathrop, CA",4500,72,769,250,140,5.3,Pearl White ,18 inch wheels,Black and White Partial Premium Interior
+35,38800,2020,Model 3,Model 3 Long Range All-Wheel Drive,25938,"Lathrop, CA",4500,72,769,322,145,3.9,Midnight Silver Metallic ,18 inch wheels,All Black Premium Interior
+36,38900,2020,Model 3,Model 3 Long Range All-Wheel Drive,27023,"Stockton, CA",4500,72,769,322,145,3.9,Solid Black ,18 inch wheels,All Black Premium Interior
+37,39000,2021,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,16605,"Fresno, CA",4500,72,769,262,140,5.3,Pearl White ,19 inch wheels,All Black Partial Premium Interior
+38,39300,2020,Model 3,Model 3 Long Range All-Wheel Drive Performance,44745,"Bakersfield, CA",4500,72,769,299,162,3.2,Pearl White ,20 inch wheels,All Black Premium Interior
+39,39700,2019,Model 3,Model 3 Long Range All-Wheel Drive,27624,"Lathrop, CA",4500,72,769,310,145,3.9,Solid Black ,19 inch wheels,All Black Premium Interior
+40,39800,2019,Model 3,Model 3 Long Range All-Wheel Drive,31026,"Stockton, CA",4500,72,769,310,145,3.9,Pearl White ,19 inch wheels,All Black Premium Interior
+41,40400,2019,Model 3,Model 3 Long Range All-Wheel Drive,41610,"Bakersfield, CA",4500,72,769,310,145,3.9,Midnight Silver Metallic ,18 inch wheels,All Black Premium Interior
+42,40800,2020,Model 3,Model 3 Long Range All-Wheel Drive,25516,"Lathrop, CA",4500,72,769,322,145,3.9,Solid Black ,18 inch wheels,All Black Premium Interior
+43,41000,2020,Model 3,Model 3 Long Range All-Wheel Drive,36914,"Bakersfield, CA",4500,72,769,322,145,3.9,Midnight Silver Metallic ,19 inch wheels,All Black Premium Interior
+44,41200,2020,Model 3,Model 3 Long Range All-Wheel Drive,15564,"Gilroy, CA",4500,72,769,322,145,3.9,Pearl White ,19 inch wheels,Black and White Premium Interior
+45,41400,2019,Model 3,Model 3 Long Range All-Wheel Drive,18340,"Gilroy, CA",4500,72,769,310,145,3.9,Deep Blue Metallic ,19 inch wheels,All Black Premium Interior
+46,41700,2020,Model 3,Model 3 Long Range All-Wheel Drive,34250,"Gilroy, CA",4500,72,769,322,145,3.9,Pearl White ,19 inch wheels,All Black Premium Interior
+47,41800,2020,Model 3,Model 3 Long Range All-Wheel Drive,27148,"Stockton, CA",4500,72,769,322,145,3.9,Pearl White ,18 inch wheels,Black and White Premium Interior
+48,42000,2020,Model 3,Model 3 Long Range All-Wheel Drive,35287,"Lathrop, CA",4500,72,769,322,145,3.9,Pearl White ,19 inch wheels,All Black Premium Interior
+49,42100,2021,Model 3,Model 3 Standard Range Plus Rear-Wheel Drive,14578,"Lathrop, CA",4500,72,769,262,140,5.3,Pearl White ,18 inch wheels,Black and White Partial Premium Interior
+50,47700,2020,Model Y,Model Y Long Range All-Wheel Drive,31447,"Bakersfield, CA",4500,72,769,326,135,4.2,Pearl White ,19 inch wheels,All Black Premium Interior
+51,51600,2020,Model Y,Model Y Long Range All-Wheel Drive Performance,25046,"Gilroy, CA",4500,72,769,291,155,3.5,Red Multi-Coat ,21 inch wheels,All Black Premium Interior
+52,53000,2020,Model Y,Model Y Long Range All-Wheel Drive,18299,"Fresno, CA",4500,72,769,326,135,4.2,Pearl White ,20 inch wheels,Black and White Premium Interior
+53,53500,2021,Model Y,Model Y Long Range Dual Motor All-Wheel Drive,9995,"Bakersfield, CA",4500,72,769,326,135,4.2,Red Multi-Coat ,19 inch wheels,Black and White Premium Interior
+54,55800,2021,Model Y,Model Y Performance Dual Motor All-Wheel Drive,21940,"Fresno, CA",4500,72,769,303,155,3.5,Pearl White ,21 inch wheels,All Black Premium Interior
+55,59000,2021,Model Y,Model Y Performance Dual Motor All-Wheel Drive,17841,"Bakersfield, CA",4500,72,769,303,155,3.5,Pearl White ,21 inch wheels,Black and White Premium Interior
+56,60000,2020,Model Y,Model Y Long Range All-Wheel Drive Performance,15141,"Fresno, CA",4500,72,769,291,155,3.5,Deep Blue Metallic ,21 inch wheels,All Black Premium Interior
+57,65900,2020,Model X,Model X Long Range Plus All-Wheel Drive,61127,"SAN RAFAEL, CA",7500,72,769,351,155,4.4,Midnight Silver Metallic,20 inch wheels,All Black Premium Interior with Figured Ash Wood Décor
+58,71400,2020,Model X,Model X Long Range Plus All-Wheel Drive,48914,"Lathrop, CA",7500,72,769,351,155,4.4,Red Multi-Coat,20 inch wheels,All Black Premium Interior with Figured Ash Wood Décor
+59,78000,2020,Model X,Model X Long Range Plus All-Wheel Drive,52799,"Lathrop, CA",7500,72,769,351,155,4.4,Midnight Silver Metallic,20 inch wheels,All Black Premium Interior with Figured Ash Wood Décor
+60,56500,2019,Model S,100D Long Range All-Wheel Drive,44264,"Lathrop, CA",7500,72,769,335,155,4.1,Midnight Silver Metallic ,19 inch wheels,All Black Premium Interior
+61,63700,2019,Model S,Model S Long Range All-Wheel Drive,23213,"Lathrop, CA",7500,72,769,373,155,3.7,Midnight Silver Metallic,19 inch wheels,Black and White Premium Interior with Dark Ash Wood Décor
+62,64500,2020,Model S,Model S Long Range All-Wheel Drive,25896,"Lathrop, CA",7500,72,769,373,155,3.7,Midnight Silver Metallic,19 inch wheels,Black and White Premium Interior with Dark Ash Wood Décor
+63,66200,2020,Model S,Model S Performance All-Wheel Drive,26179,"Lathrop, CA",7500,72,769,348,163,2.3,Midnight Silver Metallic,19 inch wheels,All Black Premium Interior with Figured Ash Wood Décor
+64,70300,2020,Model S,Model S Long Range Plus All-Wheel Drive,19855,"Lathrop, CA",7500,72,769,402,155,3.7,Midnight Silver Metallic,21 inch wheels,Cream Premium Interior with Oak Wood Décor
+65,70900,2020,Model S,Model S Long Range Plus All-Wheel Drive,16320,"Lathrop, CA",7500,72,769,402,155,3.7,Deep Blue Metallic,19 inch wheels,Cream Premium Interior with Oak Wood Décor
+66,72800,2020,Model S,Model S Performance All-Wheel Drive,19551,"Lathrop, CA",7500,72,769,326,163,2.3,Pearl White Multi-Coat,21 inch wheels,Black and White Premium Interior with Carbon Fiber Décor
+67,72800,2020,Model S,Model S Long Range Plus All-Wheel Drive,25637,"Lathrop, CA",7500,72,769,402,155,3.7,Pearl White Multi-Coat,19 inch wheels,All Black Premium Interior with Figured Ash Wood Décor
+68,73200,2020,Model S,Model S Long Range All-Wheel Drive,23198,"Lathrop, CA",7500,72,769,373,155,3.7,Deep Blue Metallic,19 inch wheels,Cream Premium Interior with Oak Wood Décor
+69,73300,2020,Model S,Model S Performance All-Wheel Drive,32486,"Bakersfield, CA",7500,72,769,326,163,2.3,Pearl White Multi-Coat,21 inch wheels,Cream Premium Interior with Oak Wood Décor
+70,81100,2021,Model S,Model S Long Range Plus All-Wheel Drive,11448,"Lathrop, CA",7500,72,769,402,155,3.7,Solid Black,21 inch wheels,Black and White Premium Interior with Dark Ash Wood Décor
+71,84400,2021,Model S,Model S Long Range Plus All-Wheel Drive,11929,"Bakersfield, CA",7500,72,769,402,155,3.7,Red Multi-Coat,19 inch wheels,All Black Premium Interior with Figured Ash Wood Décor
